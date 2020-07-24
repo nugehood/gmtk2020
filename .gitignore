@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.png
+*.asset
+*.prefab
+*.wav
+*.anim
+*.gif
+*.ttf
+*.ogg
+*.unity
